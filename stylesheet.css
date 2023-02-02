@@ -1,0 +1,31 @@
+.tittle{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0px 150px;
+    width: 400px;
+      border-spacing: 0;  
+     height: 300px;
+      overflow: hidden;
+       /* border-collapse: collapse;  */
+
+
+
+}
+.tittle thead tr{
+   background-color: aqua;
+  
+   
+}
+.tittle thead th{
+     border: 1px solid black; 
+    border-spacing: 0px;
+    padding: 5px;
+    
+}
+.tittle tbody tr td{
+     border: 1px solid black;
+     padding: 1px;
+     text-align: center;
+
+} 
+
