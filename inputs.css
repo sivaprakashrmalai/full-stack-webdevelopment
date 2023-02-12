@@ -1,0 +1,24 @@
+.tittle1{
+    background-color: rgba(0, 0, 0, 0.596);
+    color: white;
+    text-decoration: underline;
+    margin: 16px 0px 16px 40px;
+}
+
+.tittle{
+    border: 1px solid black;
+    padding: 10px;
+    border-collapse: collapse;
+    width: 100%;
+     margin: 16px 0px 16px 40px;
+     
+}
+
+.tittle tbody tr td{
+    border: 1px solid black;
+    
+}
+
+.tittle tbody tr{
+                height: 40px;
+}
