@@ -1,0 +1,35 @@
+.parent{
+    background-color: green;
+     padding: 10px;
+    position: relative;
+    text-align: center;
+    color: white;
+    
+
+}
+.child1{
+    background-color:purple;
+    position: absolute;
+    top: 90px;
+    width: 100%;
+    color: white;
+
+}
+
+.child2{
+    background-color: aqua;
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    color: white;
+    text-align: center;
+} 
+.child3{
+    
+    background-color:orangered;
+    text-align: center;
+    position: fixed;
+    top: 350px;
+    color: white;
+    width: 100%;
+} 
