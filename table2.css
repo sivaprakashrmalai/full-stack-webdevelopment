@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tittle1{
+    /* background-color: gray; */
+    color: black;
+    text-align:left;
+    text-decoration: overline;
+    text-decoration: underline;
+    margin: 10px 0px;
+}
+.tittle{
+    border-style:inset;
+    
+    border-radius: 5px;
+    overflow: hidden;
+    border-spacing: 0px;
+    height:280px;
+    width:500px;
+    margin: 5% 15%;
+
+    
+}
+.tittle thead tr th{
+
+    padding: 3px; 
+    border-style: inset;  
+    background-color: gray;
+    color: whitesmoke;   
+    border-spacing: 0px; 
+    border-radius: 7px;
+    overflow: hidden;
+}
+
+.tittle tbody tr td{
+    border-style: inset;
+    border-style: outset;
+    padding: 15px;
+    background-color: gray;
+    color: whitesmoke;
+    border-radius: 7px;
+    overflow: hidden;
+
+}
+
+.tittle thead tr{
+    height: 40px;
+}
