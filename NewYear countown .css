@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: url(https://wallpaperaccess.com/full/334698.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+
+.year{
+    font-size: 150px;
+    opacity: 0.4;
+    position: absolute;
+    bottom: 40px;
+}
+body h1{
+    font-size: 60px;
+    position: relative;
+    bottom: 40px;
+}
+
+.countown{
+    display: none;
+     transform: scale(2);
+}
+.time{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+}
